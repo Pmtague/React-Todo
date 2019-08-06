@@ -1,0 +1,42 @@
+.App {
+    background-color: darkslategray;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    padding-top: 1px;
+}
+
+.todo-list {
+    padding-bottom: 3%;
+}
+
+.item {
+
+}
+
+.item.complete {
+    color: #4c7f7f;
+    text-decoration: line-through;
+}
+
+form {
+
+}
+
+form > input {
+
+}
+
+button {
+    background-color: #4c7f7f;
+    border-radius: 9px;
+}
+
+input::placeholder {
+
+}
+
+.clear-btn {
+}
